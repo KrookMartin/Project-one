@@ -4,12 +4,9 @@
   border: none;
 } 
 
- 
-
 body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
-
 
 h1, h2 {
   text-decoration: none;
@@ -18,8 +15,8 @@ h1, h2 {
 
 #logo {
  float: left;
- margin: 100px 30px;
- font-size: 600%;
+ margin: 30px 30px;
+ font-size: 400%;
  letter-spacing: 3px;
  text-decoration: none;
  color: #303030;
@@ -28,10 +25,10 @@ h1, h2 {
 #menu {
 float: right;
 margin-right: 30px;
-margin-bottom: 30px;
+margin-top: 30px;
 
 } 
-#menu li {
+#menu li {  
   float: left;
   list-style-type: none;
   letter-spacing: 3px;
@@ -48,28 +45,16 @@ margin-bottom: 30px;
 .active {
   border-bottom: 1px solid #3a3a3a;
 }
-#header-pic {
-float: right;
-}
-#header-container {
-  width: 300px;
+.header-img {
+  width: 100%;
   height: 300px;
-  padding: 30px;
-  border-style: solid;
-  border-color: #ccc;
-  border-width: 1px;
-  border-radius: 50%;
+  background: url(../images/tryffel-cover.jpg) no-repeat center center;
   
-  
+  clear: both;
 }
 
-#header-cover-bg {
-  background: url(../images/voffvoffmain.jpg) no-repeat center center;
-  height: 100%;
-  border-radius: 50%; 
- }
- #about-us{
-   position: relative;
+ #about-us {
+   clear:both;
  }
  #this-is-voffvoff {
    margin-left: 30px;
