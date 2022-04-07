@@ -52,10 +52,33 @@ margin-top: 30px;
   clear: both;
 }
 
- #about-us {
+#about-us {
    clear:both;
  }
- #this-is-voffvoff {
-   margin-left: 30px;
-  margin-top: 30px;
+ #about-us p {
+  color: #3a3a3a;
+ }
+
+#this-is-voffvoff {
+    
+    margin-top: 50px;
+    text-align: center;
+ }
+ #bcontainer {
+    text-align: center;
+    margin-top: 40px;
+ }
+ .button {
+   background-color: #3a3a3a;
+   width: 150px;
+   height: 75px;
+   border-radius: 5px;
+   font-family: inherit;
+   }
+
+ .button a {
+   color:white;
+   font-size: large;
+   text-decoration: none;
+
  }
