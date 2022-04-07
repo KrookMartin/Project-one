@@ -72,6 +72,7 @@ margin-top: 30px;
    background-color: #3a3a3a;
    width: 150px;
    height: 75px;
+   padding-top: 40px;
    border-radius: 5px;
    font-family: inherit;
    }
@@ -79,8 +80,13 @@ margin-top: 30px;
  .button a {
    color:white;
    font-size: large;
+   text-align: center;
    text-decoration: none;
 
+ }
+ #from-costumers {
+   clear: both;
+   padding-top: 40px;
  }
 
  .content-slider {
@@ -335,3 +341,16 @@ margin-top: 30px;
   }
 }
 
+.social-networks {
+  text-align: center;
+} 
+
+.social-networks > li {
+  display: inline;    
+}
+.social-networks i {
+  font-size: 360%;
+  margin: 1%;
+  padding: 5%;
+  color: #3a3a3a;
+}
