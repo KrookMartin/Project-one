@@ -68,6 +68,10 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
  #about-voffvoff {
    text-align: center;
    margin-left: 30px;
+   font-weight: 400;
+ }
+ #topic {
+   font-weight: 400;
  }
  #abouttext, #topic {
    text-align: center;
@@ -76,6 +80,10 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    margin-left: 30px;
    font-weight: 200;
  }
+
+ #topic {
+  font-weight: 400;
+}
 
 hr {
   border:0;
@@ -158,6 +166,16 @@ hr {
 }
 #truffle-selection {
   text-align: center;
+}
+#truffle-selection h2 {
+  font-weight: 400;
+}
+
+#truffle-types img {
+  height: 300px;
+  width: 300px;
+  padding: 20px;
+
 }
 #form-section {
   height: 100vh;
