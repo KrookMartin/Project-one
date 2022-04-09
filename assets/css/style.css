@@ -108,7 +108,7 @@ hr {
     margin-top: 40px;
  }
 
- .button {
+ #button-index {
    background: url(../images/voffvoffmain-btnbrown.jpg);
    width: 390px;
    height: 319px;
@@ -116,12 +116,6 @@ hr {
    border-radius: 50%;
    cursor: pointer;
    }
-
-#form-section {
-    height: 100vh;
-    width: 100%;
-    margin: 0 auto;
-}
 
 .voffvoff-customer {
   position: relative;
@@ -139,6 +133,7 @@ hr {
   text-align: center;
   font-size: 20px;
   line-height: 100px;
+  font-weight: 200;
 }
 
 .carousel {
@@ -161,6 +156,58 @@ hr {
       transform: translateY(-800px)
   }
 }
+#truffle-selection {
+  text-align: center;
+}
+#form-section {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h2 #form-topic {
+  text-align: center;
+  clear: both;
+}
+
+.form-container {
+  width: 90%;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.voff-form {
+  width: 100%;
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: 200;
+} 
+.voff-form input, .voff-form textarea {
+  width: 100%;
+  padding: 5px;
+  font-size: 18px;
+  border: 1px solid #303030;
+}
+textarea {
+  resize: vertical;
+}
+
+#button-order {
+  width: 102.5%;
+  border: none;
+  outline: none;
+  padding: 20px;
+  font-size: 20px;
+  cursor: pointer;
+  text-align: center;
+  transition: .3s ease background-color;
+}
+#button-order:hover {
+  background-color: #3a3a3a;
+}
 
 .social-networks {
   text-align: center;
@@ -175,3 +222,4 @@ hr {
   padding: 5%;
   color: #3a3a3a;
 }
+
