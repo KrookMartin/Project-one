@@ -52,9 +52,12 @@ The order page includes information of the diffrenttypes of truffles VoffVoffTry
 Beneath the "In Stock" section there is an order form where the user can enter contact and order information. 
 ![orderForm](https://user-images.githubusercontent.com/93250649/162629403-fb3bc5bf-1bde-497c-b736-99081e215884.JPG)
 ## <a name="section-2"></a> Design
-### Imagery and Colour Scheme
+### Imagery, Colour Scheme and Fonts
 The request and input from VoffVoffTryffel regarding the design was that they wanted a homepage resembling their instagram page when it came to colours and fonts.
 The company logo is created in the Gil Sans font which is the font used in the logo of the page and also the menu. For the section text we decided on the -apple systems font in order to create some contrast from the logo. The company also wanted a simplistic look with toned-down color palette. The black and brown elements on the page is meant to resemble the truffles black outer part and its brown insides. 
+
+![colorInspo](https://user-images.githubusercontent.com/93250649/162630329-3b535788-4393-442b-a4d1-e3333bafddfd.JPG)
+
 
 
 ## <a name="section-3"></a> Technologies Used
