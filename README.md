@@ -39,6 +39,9 @@ A text carousel animation i located at the bottom of the page. The carousel cont
 ### Footer
 A simple link to the company instagram inform of the instagram logo. Link opens in a new tab.
 
+### About us page
+The about us page includes a brief backgroundstory about VoffVoffTryffle before introducing VoffVoff's main suppliers in text and image. At the bottom of the page a video section of a truffle sniffing dog is included. 
+
 ## <a name="section-2"></a> Design
 
 ## <a name="section-3"></a> Technologies Used
