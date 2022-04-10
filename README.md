@@ -77,7 +77,38 @@ GitHub: is used as the respository for the projects code after being pushed from
 Microsoft Paint: was used for editing photos for the website.
 
 ## <a name="section-4"></a> Testing
+Testing of HTML done via https://validator.w3.org/
+
+All pages pass without errors or warnings
+
+Testing of CSS done via https://jigsaw.w3.org/css-validator/
+
+All pages pass without errors or warnings
+
 
 ## <a name="section-5"></a> Deployment
+The project was deployed via GitHub pages 
 
+Link to the page:
 ## <a name="section-6"></a> Credits
+
+### Code
+
+### Text carousel animation 
+Layout inspired by https://dev.to/ziratsu/pure-css-carousel-40bd
+
+and https://www.geeksforgeeks.org/how-to-make-a-carousel-using-css/
+
+### Form
+Layout inspired by https://www.w3schools.com/html/html_forms.asp
+
+
+### Media
+
+Images from http://www.instagram.com/voffvofftryffel and http://www.pexels.com
+
+Video from http://www.pexels.com
+
+
+
+
