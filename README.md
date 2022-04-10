@@ -30,6 +30,7 @@ The header image is  close up images of a blacktruffle accompanied by a short in
 
 ### Order index button
 The order button on the index page has a background from one of the company most recognizable images that among other things is the profile picture from the company instagram profile. The button takes the user directly to the order section of the pages. 
+![indexBtn](https://user-images.githubusercontent.com/93250649/162628148-09c74b53-8a4e-4bb0-ab7d-e6d9c4a95ed2.JPG)
 
 ### Quote Carousel
 A text carousel animation i located at the bottom of the page. The carousel contains quotes and recommendations from customers.
