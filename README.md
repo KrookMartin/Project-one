@@ -23,6 +23,7 @@ VoffVoffTryffel is a webpage created for a small start up company based i the so
 ### Navigation Bar
 The navigation bar is simple and consitent over all three pages as is the company logo. Both logo and navigation bar is repsonsive over diffrent screensizes. 
 The navigation bar moves underneath the logo on smaller screensizes (eg. mobile phones and smaller tablets).
+![navbar](https://user-images.githubusercontent.com/93250649/162627973-888a61ed-5cc7-49a4-b01c-2bd281c00cdf.JPG)
 
 ### Image and intro message
 The header image is  close up images of a blacktruffle accompanied by a short intro pitch.
