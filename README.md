@@ -61,6 +61,20 @@ The company logo is created in the Gil Sans font which is the font used in the l
 
 
 ## <a name="section-3"></a> Technologies Used
+### Languages Used
+
+-HTML5
+
+-CSS3
+
+### Frameworks, Libraries & Programs Used
+Font Awesome: was used to add icons.
+
+Git: was used for version control by utilising the Gitpod terminal to commit to Git and Push to GitHub.
+
+GitHub: is used as the respository for the projects code after being pushed from Git.
+
+Microsoft Paint: was used for editing photos for the website.
 
 ## <a name="section-4"></a> Testing
 
