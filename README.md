@@ -45,7 +45,11 @@ The about us page includes a brief backgroundstory about VoffVoffTryffle before 
 ![dogVideo](https://user-images.githubusercontent.com/93250649/162629074-a1d6d6e7-d1ce-462b-9dac-82da26f4cab7.JPG)
 
 ### Orderpage
-The order page includes information of the diffrenttypes of truffles VoffVoffTryffel currently has in stock displayed with prices and images of the product
+The order page includes information of the diffrenttypes of truffles VoffVoffTryffel currently has in stock displayed with prices and images of the product.
+![InStock](https://user-images.githubusercontent.com/93250649/162629269-ebd79722-de6a-4cf5-9f62-be955416070e.JPG)
+
+### Orderform
+Beneath the "In Stock" section there is an order form where the user can enter contact and order information. 
 ## <a name="section-2"></a> Design
 
 ## <a name="section-3"></a> Technologies Used
