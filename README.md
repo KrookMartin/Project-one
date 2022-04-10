@@ -34,6 +34,7 @@ The order button on the index page has a background from one of the company most
 
 ### Quote Carousel
 A text carousel animation i located at the bottom of the page. The carousel contains quotes and recommendations from customers.
+![QuoteCarousel](https://user-images.githubusercontent.com/93250649/162628224-8e0cb5a5-1faf-411d-9d0a-14f46210e719.JPG)
 
 ### Footer
 A simple link to the company instagram inform of the instagram logo. Link opens in a new tab.
