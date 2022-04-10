@@ -41,6 +41,8 @@ A simple link to the company instagram inform of the instagram logo. Link opens 
 
 ### About us page
 The about us page includes a brief backgroundstory about VoffVoffTryffle before introducing VoffVoff's main suppliers in text and image. At the bottom of the page a video section of a truffle sniffing dog is included. 
+![Supplier1](https://user-images.githubusercontent.com/93250649/162628963-7d06fd8a-9f4c-433f-801a-e1c9e20df965.JPG)
+
 
 ## <a name="section-2"></a> Design
 
