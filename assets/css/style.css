@@ -108,6 +108,11 @@ hr {
   margin-top: 10px; 
 }
 
+#dogforrest {
+  display: block;
+  margin: 0 auto;
+}
+
  #bcontainer {
     text-align: center;
 
@@ -286,6 +291,10 @@ textarea {
    margin: 0px 20px;
    height: 200px;
    width: 300px;
+  }
+  #dogforrest{
+    height: 200px;
+    width: 300px;
   }
   .header-img {
     height: 100px;
